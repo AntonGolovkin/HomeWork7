@@ -18,6 +18,7 @@ public class MainApp {
             cat[i].eat(plate);
 
         }
+        System.out.println("");
         
     }
 }
